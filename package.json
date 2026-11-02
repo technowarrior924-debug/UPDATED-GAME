@@ -1,0 +1,13 @@
+{
+  "name": "pointerx-fps-game",
+  "version": "1.0.0",
+  "description": "Pointer X - Free 3D multiplayer browser FPS game",
+  "main": "servers.js",
+  "scripts": {
+    "start": "node servers.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "socket.io": "^4.7.5"
+  }
+}
